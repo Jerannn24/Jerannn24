@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 🔭 Currently a first year at **Institut Teknologi Bandung**.<br>
-🤝 Looking for help with **Machine Learning**.<br>
+🤝 Looking for help with **Software Engineer**.<br>
 🌱 Learning **Web Development, C, React, Next.js, JavaScript, Git**.
 
 ---
