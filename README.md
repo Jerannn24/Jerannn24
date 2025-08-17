@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✨ Junior Natra Situmorang ✨
-*First Year Student at Institut Teknologi Bandung*  
+*Second Year Student at Institut Teknologi Bandung*  
 *Software Engineer Enthusiast | Machine Learning Enthusiast | Web Dev Learner*
 
 ---
