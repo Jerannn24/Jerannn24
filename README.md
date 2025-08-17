@@ -41,6 +41,5 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jerannn24&icon=5&color=6)](https://visitcount.itsvg.in)
-![Snake animation](https://raw.githubusercontent.com/jerannn24/jerannn24/output/snake.svg)
 
 </div>
