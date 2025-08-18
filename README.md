@@ -41,5 +41,6 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=jerannn24&icon=5&color=6)](https://visitcount.itsvg.in)
+🔗 Live Portfolio: [juniornatra.vercel.app](https://juniornatra.vercel.app)
 
 </div>
