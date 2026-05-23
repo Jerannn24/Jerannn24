@@ -22,9 +22,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-readme-stats.shion.dev/api/pin/?username=Jerannn24&repo=tugas-besar-1-mbg-2&theme=catppuccin_mocha)
-
 ---
 [![](https://komarev.com/ghpvc/?username=Jerannn24&icon=2&color=8)](https://visitcount.itsvg.in)
 
